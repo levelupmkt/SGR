@@ -1,0 +1,731 @@
+SGR
+Sistema de Gestión de Residencias y Condominios
+Estructura completa de contenido web, sitemap, UX writing y copys por sección
+Documento estratégico para diseño UX/UI y desarrollo web
+Idea central de la web
+SGR no debe comunicarse solo como un software. Debe posicionarse como la forma moderna de recuperar orden, seguridad, transparencia y control dentro de una comunidad residencial.
+
+Versión 1.0 | Elaborado para Orbimedia / Código Plus
+
+1. Objetivo del documento
+Este documento organiza el contenido completo recomendado para la página web de SGR, incluyendo arquitectura de navegación, estructura por secciones, mensajes principales, copys, llamadas a la acción, microcopy UX, propuesta de blog y recomendaciones de interfaz.
+La propuesta parte de la información de la presentación comercial de SGR y toma como referencia de tono la web de Condo Control, especialmente su forma de comunicar beneficios por módulos: comunicación, financiero, mantenimiento, registros, seguridad y residente.
+Enfoque recomendado
+La web debe hablar primero del problema que vive una comunidad residencial y luego presentar las funciones de SGR como la solución clara, simple y moderna. Menos “software técnico”, más “comunidad organizada, segura y conectada”.
+
+2. Lectura estratégica del producto
+2.1 Qué vende realmente SGR
+Orden: permite centralizar información, solicitudes, pagos, visitantes, mantenimientos y comunicaciones.
+Control: entrega visibilidad sobre lo que ocurre dentro de la urbanización o condominio.
+Seguridad: facilita pre-visitas, control de accesos, botón de pánico, puntos de control y monitoreo operativo.
+Transparencia: mejora el seguimiento de alícuotas, pagos, cuentas pendientes y reportes.
+Comodidad: permite a residentes reservar instalaciones, registrar visitas y participar desde su celular.
+Eficiencia: reduce carga operativa y evita procesos manuales repetitivos.
+2.2 Mensaje madre de marca para la web
+Mensaje principal
+Transforma tu urbanización o condominio en una comunidad organizada, segura y conectada con SGR.
+Versión más emocional
+Tu comunidad no tiene que vivir entre reclamos, visitas sin control, pagos desordenados y mensajes perdidos. Con SGR, todo queda organizado en una sola plataforma.
+Versión más corporativa
+SGR centraliza la administración residencial, automatiza procesos operativos y mejora la experiencia de administradores, residentes, técnicos y personal de seguridad.
+3. Tono de comunicación UX Writing
+Principio
+Aplicación en la web
+Claro
+Evitar frases largas. Cada sección debe explicar un beneficio concreto en máximo 2 o 3 líneas.
+Moderno
+Usar palabras como automatiza, centraliza, conecta, controla, digitaliza, simplifica.
+Directo
+Abrir con dolores reales: visitas sin control, pagos atrasados, quejas sin seguimiento, reservas desordenadas.
+Confiable
+Reforzar que SGR fue desarrollado para Ecuador y para la operación real de urbanizaciones y condominios.
+Orientado a acción
+Cada sección debe tener un CTA claro: Agenda un demo, Ver funcionalidades, Conocer planes o Hablar por WhatsApp.
+
+3.1 Palabras recomendadas
+Organiza
+Automatiza
+Conecta
+Controla
+Digitaliza
+Centraliza
+Simplifica
+Transparenta
+Protege
+Moderniza
+3.2 Palabras a evitar o usar con cuidado
+“Sistema robusto” sin explicar beneficio: reemplazar por “plataforma que centraliza la operación”.
+“Administración integral” repetido demasiadas veces: alternar con “gestión diaria”, “operación residencial” o “control de comunidad”.
+“Seguridad total”: evitar promesas absolutas. Usar “mayor control”, “mejor trazabilidad” o “respuesta más rápida”.
+Texto saturado de funciones técnicas sin conexión emocional.
+4. Sitemap propuesto y navegación web
+Navegación principal recomendada
+Inicio | Producto | Soluciones | Planes | Blog | Contacto | CTA fijo: Agenda un demo
+
+Nivel 1
+Nivel 2 / Subpáginas
+Objetivo UX
+Inicio
+Resumen general
+Explicar rápidamente qué es SGR, qué problemas resuelve y llevar al usuario a agendar demo.
+Producto
+FuncionalidadesAdministraciónFinanzas y alícuotasSeguridad y visitantesMantenimientoReservasComunicación y WhatsAppReportes
+Mostrar todas las funciones del sistema ordenadas por necesidad, no en una lista técnica desordenada.
+Soluciones
+Para administradoresPara residentesPara guardiasPara técnicosPara comités o directivas
+Permitir que cada tipo de usuario entienda qué gana con SGR.
+Planes
+Plan Comunidad DigitalPlan FamiliarPlan Familiar PlusComparativa
+Presentar precios y beneficios con claridad, corrigiendo textos repetidos y errores del material original.
+Blog
+Novedades del sistemaGuías para administradoresSeguridad residencialFinanzas y alícuotasCasos de uso
+Crear una página viva para publicar actualizaciones, funcionalidades nuevas, noticias y educación del mercado.
+Contacto
+Agenda demoWhatsAppFormularioUbicación
+Convertir visitantes en leads calificados.
+Legales
+Términos y condicionesPolítica de privacidad
+Dar confianza, especialmente por manejo de datos de residentes, visitas y pagos.
+
+4.1 Estructura visual del menú
+Menú superior recomendado:
+Logo SGR a la izquierda.
+Menú: Producto, Soluciones, Planes, Blog, Contacto.
+Botón principal: Agenda un demo.
+Botón secundario opcional: Iniciar sesión.
+En mobile: menú hamburguesa con CTA fijo “Agendar demo”.
+5. Página Inicio
+Elemento
+Contenido UX recomendado
+URL sugerida
+/
+Objetivo
+Explicar la promesa de SGR en menos de 10 segundos y convertir hacia demo.
+Audiencia principal
+Administradores, directivas, residentes influyentes y comités de urbanizaciones o condominios.
+CTA principal
+Agenda un demo gratis
+CTA secundario
+Ver funcionalidades
+SEO title
+SGR | Sistema de Gestión de Residencias y Condominios en Ecuador
+Meta description
+Moderniza la administración de tu urbanización o condominio con SGR. Controla pagos, visitantes, mantenimiento, reservas y comunicación desde una sola plataforma.
+
+5.1 Hero principal
+H1
+La administración moderna que tu urbanización ya debería tener
+Subtítulo
+Centraliza pagos, visitas, mantenimiento, reservas, comunicaciones y seguridad en una sola plataforma diseñada para comunidades residenciales en Ecuador.
+CTA principal
+Agenda un demo gratis
+CTA secundario
+Explorar funcionalidades
+Microcopy bajo CTA
+Sin compromiso. Te mostramos cómo SGR se adapta a la operación de tu comunidad.
+5.2 Sección problema
+Título
+Tu comunidad no debería depender de papeles, chats perdidos y procesos manuales
+Texto
+Cuando las visitas se anotan a mano, las quejas se pierden en WhatsApp y los pagos no tienen seguimiento claro, la administración se vuelve lenta, confusa y poco confiable. SGR ordena todo en un solo lugar.
+Pagos y alícuotas sin trazabilidad.
+Visitantes registrados manualmente.
+Quejas sin seguimiento ni responsable.
+Reservas de áreas comunes desorganizadas.
+Mantenimientos sin reportes ni historial.
+Administradores saturados con tareas repetitivas.
+5.3 Sección solución
+Título
+Organiza, automatiza y conecta a toda tu comunidad
+Texto
+SGR une a administradores, residentes, guardias y técnicos en una misma plataforma para que cada solicitud, visita, pago y mantenimiento tenga seguimiento claro desde el inicio hasta el cierre.
+CTA
+Ver cómo funciona SGR
+5.4 Bloque de beneficios principales
+Beneficio
+Copy para tarjeta
+Orden administrativo
+Gestiona edificios, residencias, usuarios, solicitudes, proveedores y anuncios desde un solo panel.
+Transparencia financiera
+Da seguimiento a pagos, alícuotas, cuentas pendientes y facturación con mayor claridad.
+Mayor control de seguridad
+Registra pre-visitas, visitantes, alertas y puntos de control para mejorar la trazabilidad.
+Comodidad para residentes
+Permite reservar instalaciones, registrar visitas, hacer consultas y revisar información desde el celular.
+Mantenimiento con seguimiento
+Asigna tareas, monitorea trabajos activos y genera reportes de actividad.
+Comunicación centralizada
+Envía anuncios, notificaciones y comunicaciones importantes sin perder información en chats dispersos.
+
+5.5 Sección módulos resumidos
+Título
+Todo lo que tu urbanización necesita para operar mejor
+Módulo
+Texto corto
+Administración
+Controla propiedades, unidades, residentes, proveedores, técnicos, anuncios, juntas y comités.
+Finanzas
+Organiza alícuotas, pagos, cuentas pendientes y procesos de cobro.
+Seguridad
+Gestiona visitantes, pre-visitas, puntos de control, estacionamientos y alertas.
+Mantenimiento
+Recibe solicitudes, asigna trabajos, monitorea avances y conserva reportes.
+Residentes
+Facilita reservas, pagos, visitas, consultas, emergencias y participación comunitaria.
+WhatsApp
+Conecta notificaciones directas para mantener informada a la comunidad.
+
+5.6 Sección por roles
+Título
+Cada persona conectada con lo que necesita
+Rol
+Promesa para la tarjeta
+Administrador
+Menos carga operativa, más control sobre la gestión diaria.
+Residente
+Más comodidad para pagar, reservar, reportar y mantenerse informado.
+Guardia
+Mejor control de ingresos, visitas y alertas desde una herramienta simple.
+Técnico
+Trabajos asignados, seguimiento de actividades y reportes claros.
+Comité
+Mayor visibilidad para tomar decisiones con información organizada.
+
+5.7 CTA final de inicio
+Título
+¿Listo para dejar atrás el desorden administrativo?
+Texto
+Agenda un demo y descubre cómo SGR puede adaptarse a la operación real de tu urbanización o condominio.
+Botón
+Agendar demo ahora
+6. Página Producto / Funcionalidades
+Elemento
+Contenido UX recomendado
+URL sugerida
+/producto
+Objetivo
+Presentar todas las funciones de SGR agrupadas por módulos de valor.
+CTA principal
+Agenda un demo
+CTA secundario
+Conocer planes
+SEO title
+Funcionalidades de SGR | Administración, seguridad, pagos y mantenimiento
+Meta description
+Conoce las funcionalidades de SGR para administrar urbanizaciones y condominios: pagos, alícuotas, visitantes, mantenimiento, reservas, WhatsApp y botón de pánico.
+
+6.1 Hero de producto
+H1
+Todas las funciones que tu comunidad necesita, en una sola plataforma
+Subtítulo
+SGR centraliza la operación residencial para que administradores, residentes, guardias y técnicos trabajen conectados, con más orden y menos procesos manuales.
+CTA principal
+Solicitar demo
+CTA secundario
+Ver módulos
+6.2 Módulo: Administración centralizada
+Título
+Administra edificios, residencias y usuarios desde un solo lugar
+Texto
+Controla la información de propiedades, unidades, residentes, inquilinos, parqueaderos, proveedores y personal operativo sin depender de hojas sueltas o archivos dispersos.
+Gestión de residencias y unidades.
+Administración de usuarios por rol.
+Control de edificios y propiedades.
+Gestión de proveedores y técnicos.
+Organización de juntas, comités y anuncios.
+Microcopy CTA
+Quiero organizar mi comunidad
+6.3 Módulo: Finanzas y alícuotas
+Título
+Más claridad para pagos, cobros y cuentas pendientes
+Texto
+SGR facilita el seguimiento financiero de la comunidad, ayudando a mantener mayor transparencia sobre alícuotas, pagos, facturación y valores pendientes.
+Gestión de cuentas y pagos.
+Seguimiento de alícuotas.
+Control de cuentas pendientes.
+Historial financiero por unidad o residente.
+Apoyo a procesos de cobro y facturación.
+Microcopy CTA
+Ver cómo controlar pagos
+6.4 Módulo: Seguridad, visitas y accesos
+Título
+Controla quién entra, cuándo entra y por qué entra
+Texto
+El módulo de seguridad permite gestionar pre-visitas, visitantes, puntos de control, estacionamientos nocturnos y alertas para que la comunidad tenga mayor trazabilidad operativa.
+Registro de pre-visitas.
+Control de visitantes.
+Puntos de control para guardias.
+Monitoreo de estacionamientos nocturnos.
+Activación de alertas de pánico.
+Código TAG vehicular en planes superiores.
+Microcopy CTA
+Mejorar control de visitas
+6.5 Módulo: Mantenimiento y solicitudes
+Título
+Cada solicitud con responsable, seguimiento y cierre
+Texto
+Evita que los mantenimientos queden olvidados. SGR permite recibir solicitudes, asignar trabajos, monitorear actividades y generar reportes para tener una operación más ordenada.
+Recepción de solicitudes de servicio.
+Asignación de tareas a técnicos.
+Seguimiento de trabajos activos.
+Reportes de actividad.
+Historial de solicitudes.
+Microcopy CTA
+Ordenar mantenimientos
+6.6 Módulo: Reservas de instalaciones
+Título
+Reserva áreas comunes sin llamadas, papeles ni confusiones
+Texto
+Los residentes pueden solicitar o reservar instalaciones de forma más simple, mientras la administración mantiene control sobre disponibilidad y uso de espacios comunes.
+Reservas desde la app.
+Mayor comodidad para residentes.
+Control de disponibilidad.
+Historial de reservas.
+Menos carga operativa para administración.
+Microcopy CTA
+Facilitar reservas
+6.7 Módulo: Comunicación y WhatsApp
+Título
+Comunicación importante sin perderse en chats interminables
+Texto
+SGR centraliza anuncios, notificaciones y consultas. Además, permite integrar notificaciones directas por WhatsApp para mantener informados a los usuarios de forma práctica.
+Anuncios para residentes.
+Notificaciones automáticas personalizables.
+Gestión de consultas.
+Integración con WhatsApp para avisos directos.
+Comunicación segmentada por rol o comunidad.
+Microcopy CTA
+Conectar mi comunidad
+6.8 Módulo: Botón de pánico y emergencias
+Título
+Una alerta rápida cuando cada segundo importa
+Texto
+El botón de pánico ayuda a reportar situaciones de emergencia y activar alertas dentro del ecosistema de gestión, fortaleciendo la capacidad de reacción de la comunidad.
+Botón de pánico para residentes.
+Alertas para personal operativo.
+Registro de eventos.
+Mayor trazabilidad ante incidentes.
+Microcopy CTA
+Conocer funciones de seguridad
+6.9 Módulo: Paneles y reportes
+Título
+Decisiones más rápidas con información visible
+Texto
+Los paneles de control muestran indicadores clave de solicitudes, quejas, tareas, residencias, edificios y usuarios, permitiendo una gestión más clara y proactiva.
+Panel de inicio por rol.
+Indicadores de solicitudes y tareas.
+Vista de residencias y edificios.
+Reportes operativos.
+Información adaptada a cada usuario.
+Microcopy CTA
+Ver paneles de SGR
+7. Página Soluciones por rol
+Elemento
+Contenido UX recomendado
+URL sugerida
+/soluciones
+Objetivo
+Mostrar que SGR no es solo para administración: conecta a toda la comunidad.
+CTA principal
+Agenda un demo para tu comunidad
+SEO title
+Soluciones SGR para administradores, residentes, guardias y técnicos
+Meta description
+SGR conecta a administradores, residentes, guardias y técnicos en una sola plataforma para mejorar la gestión residencial.
+
+7.1 Hero de soluciones
+H1
+Una plataforma para cada persona dentro de tu comunidad
+Subtítulo
+SGR adapta la experiencia según el rol de cada usuario: administración, residentes, seguridad, técnicos y comités conectados con la información que realmente necesitan.
+Rol
+Promesa
+Funciones clave
+CTA
+Administrador
+Menos tareas repetitivas, más control de la operación.
+Panel de indicadores, gestión de residencias, proveedores, técnicos, juntas, comités, quejas y anuncios.
+Quiero administrar mejor
+Residente / propietario / inquilino
+Más comodidad para vivir su comunidad.
+Reservas, pagos, visitas, solicitudes, consultas, botón de pánico y participación en comités.
+Quiero una comunidad más cómoda
+Guardia
+Control más claro de ingresos y alertas.
+Pre-visitas, visitantes, puntos de control, estacionamientos nocturnos y activación de alertas.
+Quiero mejorar la seguridad
+Técnico
+Tareas más ordenadas y reportes claros.
+Recepción de trabajos, seguimiento de trabajos activos y generación de reportes.
+Quiero ordenar mantenimientos
+Comité / Directiva
+Más información para tomar mejores decisiones.
+Consultas, juntas, reportes, quejas y visibilidad sobre la operación comunitaria.
+Quiero más transparencia
+
+8. Página Seguridad y control de visitantes
+Elemento
+Contenido UX recomendado
+URL sugerida
+/producto/seguridad
+Objetivo
+Crear una landing específica para el dolor más emocional: control de ingresos, visitantes y emergencias.
+CTA principal
+Solicitar demo de seguridad
+SEO title
+Control de visitas y seguridad residencial con SGR
+Meta description
+Controla pre-visitas, visitantes, puntos de control, estacionamientos y alertas de pánico con SGR.
+
+H1
+¿Sabes realmente quién entra a tu urbanización?
+Subtítulo
+Con SGR, el control de visitas deja de depender de cuadernos, llamadas y mensajes perdidos. Tu comunidad obtiene más trazabilidad y mejor respuesta operativa.
+Bloque dolor
+Un ingreso mal registrado puede convertirse en un problema para todos. Por eso, cada visita, pre-visita y alerta debe quedar organizada desde el primer momento.
+Bloque solución
+SGR permite gestionar accesos, visitantes, puntos de control y alertas desde una plataforma conectada con residentes, guardias y administración.
+Registro de visitantes.
+Control de pre-visitas.
+Puntos de control para guardias.
+Alertas de pánico.
+Monitoreo de estacionamientos nocturnos.
+Código TAG vehicular en plan Plus.
+CTA final
+Mejorar el control de mi urbanización
+9. Página Planes
+Nota estratégica
+La presentación original muestra planes de $0, $15 y $25, pero la sección necesita limpieza visual y validación comercial. Se recomienda usar nombres más claros, ordenar beneficios y corregir repeticiones antes de publicar.
+
+Elemento
+Contenido UX recomendado
+URL sugerida
+/planes
+Objetivo
+Presentar precios y diferencias de forma simple, evitando confusión.
+CTA principal
+Elegir plan / Agendar demo
+SEO title
+Planes SGR | Gestión residencial para urbanizaciones y condominios
+Meta description
+Conoce los planes de SGR para modernizar la gestión de tu urbanización o condominio. Administración, pagos, visitas, reservas, mantenimiento y seguridad.
+
+9.1 Hero de planes
+H1
+Elige el plan ideal para modernizar tu comunidad
+Subtítulo
+Desde funciones esenciales hasta control avanzado de accesos, SGR se adapta al nivel de gestión que necesita tu urbanización o condominio.
+9.2 Propuesta de estructura de planes
+Plan
+Precio visible
+Ideal para
+Beneficios destacados
+CTA
+Comunidad Digital
+$0
+Comunidades que quieren conocer SGR o iniciar con funciones esenciales.
+Administración eficiente de alícuotas y finanzas.Comunicación automatizada.Control de visitas.Gestión de mantenimiento.Reservas de áreas comunes.Botón de pánico.
+Empezar gratis
+Plan Familiar
+$15
+Familias o residentes que necesitan acceso organizado para varios miembros.
+Todo lo del plan inicial.Plan familiar sin costo adicional según condiciones.Acceso para personal operativo.Soporte técnico y actualizaciones.Hasta 3 personas, si esta condición se mantiene.
+Elegir Plan Familiar
+Plan Familiar Plus
+$25
+Comunidades que requieren funciones avanzadas de control y acceso.
+Todo lo del Plan Familiar.Control de accesos con integración tecnológica.Código TAG vehicular.Soporte y actualizaciones.Hasta 5 personas, si esta condición se mantiene.
+Elegir Plan Plus
+
+9.3 Microcopy de precios
+“¿No sabes qué plan elegir? Agenda un demo y te ayudamos a identificar el más conveniente para tu comunidad.”
+“Los valores, condiciones y cantidad de usuarios deben validarse con un asesor antes de la contratación.”
+“SGR puede adaptarse según el tamaño y necesidades de tu comunidad.”
+10. Página Blog / Novedades
+Elemento
+Contenido UX recomendado
+URL sugerida
+/blog
+Objetivo
+Publicar contenido educativo, novedades del sistema, actualizaciones de funcionalidades y noticias de gestión residencial.
+CTA principal
+Ver últimas novedades
+CTA secundario
+Agendar demo
+SEO title
+Blog SGR | Gestión residencial, seguridad y administración de condominios
+Meta description
+Consejos, noticias y novedades sobre administración de urbanizaciones, seguridad residencial, alícuotas, mantenimiento y funcionalidades de SGR.
+
+10.1 Hero del blog
+H1
+Ideas, novedades y guías para administrar mejor tu comunidad
+Subtítulo
+Aprende sobre gestión residencial, seguridad, alícuotas, mantenimiento, comunicación comunitaria y nuevas funcionalidades de SGR.
+10.2 Categorías del blog
+Categoría
+Uso editorial
+Novedades SGR
+Lanzamientos, mejoras, cambios de interfaz, nuevas funciones y actualizaciones del sistema.
+Guías para administradores
+Contenido práctico para mejorar la gestión diaria de urbanizaciones y condominios.
+Seguridad residencial
+Artículos sobre control de visitas, emergencias, puntos de control y convivencia segura.
+Finanzas y alícuotas
+Buenas prácticas para pagos, cuentas pendientes, transparencia y reportes financieros.
+Mantenimiento
+Consejos para organizar solicitudes, proveedores, técnicos y reportes.
+Residentes y convivencia
+Contenido enfocado en comodidad, comunicación, participación y uso de áreas comunes.
+Casos de uso
+Historias reales o simuladas de cómo SGR resuelve problemas específicos.
+
+10.3 Estructura de tarjeta de artículo
+Etiqueta
+Seguridad residencial
+Título
+¿Tu urbanización todavía registra visitas en papel?
+Extracto
+Conoce por qué el control manual de visitas puede afectar la seguridad y cómo digitalizar este proceso mejora la trazabilidad de tu comunidad.
+CTA
+Leer artículo
+10.4 Plantilla de artículo interno
+Breadcrumb: Inicio > Blog > Categoría > Artículo.
+Título claro con dolor o beneficio.
+Resumen de 2 líneas.
+Fecha y categoría.
+Imagen destacada.
+Índice interno si el artículo supera 800 palabras.
+Desarrollo con subtítulos H2 y H3.
+Bloque “Cómo SGR ayuda con esto”.
+Artículos relacionados.
+CTA final: Agenda un demo de SGR.
+10.5 Ideas iniciales de contenido para blog
+Título sugerido
+Categoría
+Intención
+5 señales de que tu urbanización necesita digitalizar su administración
+Guías para administradores
+Concientización y captación de leads.
+Cómo reducir quejas en un condominio sin saturar al administrador
+Guías para administradores
+Mostrar valor operativo de SGR.
+El problema de registrar visitas en papel y cómo solucionarlo
+Seguridad residencial
+Activar dolor de seguridad.
+Alícuotas: cómo mejorar la transparencia financiera en una comunidad
+Finanzas y alícuotas
+Educar y vender control financiero.
+Cómo organizar solicitudes de mantenimiento sin perder seguimiento
+Mantenimiento
+Explicar módulo de técnicos y reportes.
+Reservas de áreas comunes: cómo evitar confusiones entre residentes
+Residentes y convivencia
+Mostrar comodidad para residentes.
+Novedad SGR: integración de notificaciones por WhatsApp
+Novedades SGR
+Comunicar funcionalidad nueva.
+Botón de pánico en comunidades residenciales: qué es y cuándo usarlo
+Seguridad residencial
+Educar sobre emergencias.
+Por qué tu comunidad necesita un panel de control y no más archivos sueltos
+Guías para administradores
+Vender centralización.
+Cómo preparar tu urbanización para una administración más moderna
+Casos de uso
+Contenido inspiracional y comercial.
+Checklist para evaluar si tu condominio está administrado correctamente
+Guías para administradores
+Lead magnet potencial.
+Control de accesos con TAG vehicular: beneficios para urbanizaciones
+Seguridad residencial
+Promocionar plan superior.
+
+11. Página Contacto / Agenda demo
+Elemento
+Contenido UX recomendado
+URL sugerida
+/contacto o /demo
+Objetivo
+Convertir a usuarios interesados en leads calificados.
+CTA principal
+Agendar demo gratis
+SEO title
+Agenda un demo de SGR | Gestión residencial moderna
+Meta description
+Solicita una demostración de SGR y descubre cómo modernizar la administración de tu urbanización o condominio.
+
+11.1 Hero de contacto
+H1
+Agenda un demo y descubre cómo SGR puede transformar tu comunidad
+Subtítulo
+Cuéntanos cómo funciona hoy tu urbanización o condominio y te mostraremos cómo SGR puede ayudarte a organizar pagos, visitantes, solicitudes, reservas y comunicación.
+11.2 Formulario recomendado
+Campo
+Placeholder / Microcopy
+Nombre completo
+Ej.: María Rodríguez
+Cargo o rol
+Administrador, residente, miembro del comité, guardia, otro.
+Nombre de la urbanización o condominio
+Ej.: Urbanización Los Ceibos
+Ciudad
+Ej.: Guayaquil
+Número aproximado de viviendas o unidades
+Esto nos ayuda a recomendarte el plan adecuado.
+Teléfono / WhatsApp
+Te contactaremos para coordinar el demo.
+Correo electrónico
+Usaremos este correo para enviarte información del demo.
+Principal necesidad
+Pagos, visitas, mantenimiento, reservas, comunicación, seguridad u otra.
+Mensaje
+Cuéntanos brevemente qué problema quieres resolver.
+
+11.3 Estados del formulario
+Estado
+Copy UX
+Botón normal
+Agendar demo gratis
+Botón cargando
+Enviando solicitud...
+Éxito
+¡Listo! Recibimos tu solicitud. Un asesor de SGR se comunicará contigo para coordinar el demo.
+Error general
+No pudimos enviar tu solicitud en este momento. Intenta nuevamente o escríbenos por WhatsApp.
+Campo obligatorio
+Este campo es necesario para coordinar tu demo.
+WhatsApp alternativo
+Prefiero hablar por WhatsApp
+
+11.4 Datos de contacto sugeridos en footer
+Código Plus / SGR.
+Guayaquil, Ecuador.
+Urdesa, Circunvalación Sur 108 y Victor Emilio Estrada, Piso 1 Oficina 4.
+Teléfono: 0979545516.
+Correo: info@codigo.plus.
+Sitio: www.sgresidencia.com.
+Redes: @sgresidencias.
+12. Footer recomendado
+Columna
+Contenido
+Producto
+FuncionalidadesAdministraciónFinanzasSeguridadMantenimientoReservas
+Soluciones
+Para administradoresPara residentesPara guardiasPara técnicosPara comités
+Recursos
+BlogNovedadesPreguntas frecuentesCentro de ayuda
+Empresa
+ContactoAgenda demoSobre Código Plus
+Legal
+Términos y condicionesPolítica de privacidad
+CTA footer
+¿Quieres modernizar tu comunidad? Agenda un demo gratis.
+
+13. Componentes UX y microcopy global
+13.1 CTAs principales
+Uso
+Copy recomendado
+CTA principal general
+Agenda un demo gratis
+CTA producto
+Ver funcionalidades
+CTA seguridad
+Mejorar control de visitas
+CTA finanzas
+Ordenar pagos y alícuotas
+CTA mantenimiento
+Organizar solicitudes
+CTA blog
+Leer artículo
+CTA WhatsApp
+Hablar por WhatsApp
+CTA planes
+Elegir plan
+CTA comparativa
+Comparar planes
+
+13.2 Frases cortas para banners o cards
+Más orden para tu comunidad. Menos carga para la administración.
+Deja de perseguir pagos, visitas y solicitudes en mil lugares.
+Todo conectado: administración, residentes, guardias y técnicos.
+Controla visitas y emergencias desde una plataforma diseñada para comunidades.
+Tu urbanización puede funcionar mejor. SGR te muestra cómo.
+No más procesos manuales para una comunidad que quiere avanzar.
+13.3 Mensajes de confianza
+Desarrollado por Código Plus.
+Diseñado para la operación real de urbanizaciones y condominios en Ecuador.
+Soporte técnico y actualizaciones disponibles según el plan contratado.
+Acceso por roles para que cada usuario vea lo que necesita.
+14. Recomendaciones UX/UI para diseño visual
+Área
+Recomendación
+Hero
+Usar mockup de laptop + celular con panel de SGR. Texto corto, CTA visible y fondo azul/negro con detalles tecnológicos.
+Cards de módulos
+Máximo 6 cards por bloque. Icono simple, título de 2 a 4 palabras y texto de 1 o 2 líneas.
+Secciones largas
+Usar tabs o acordeones por módulo para evitar saturación.
+Roles
+Mostrar como pestañas: Administrador, Residente, Guardia, Técnico, Comité.
+Planes
+Usar comparativa limpia de 3 columnas. Marcar el plan recomendado con una etiqueta visible.
+Blog
+Usar cards con categoría, fecha, título, extracto y CTA.
+CTA fijo
+Mantener botón “Agenda un demo” visible en desktop y mobile.
+Color
+Usar azul SGR como color principal, turquesa como acento y fondos claros para bloques de lectura.
+Confianza
+Incluir datos de contacto reales, desarrollador, testimonios y capturas del sistema.
+
+15. Preguntas frecuentes recomendadas
+Pregunta
+Respuesta sugerida
+¿Qué es SGR?
+SGR es una plataforma para modernizar la administración de urbanizaciones y condominios, centralizando pagos, visitantes, mantenimiento, reservas, comunicación y seguridad.
+¿SGR funciona para urbanizaciones y condominios?
+Sí. La plataforma está pensada para propiedades residenciales, apartamentos, urbanizaciones y condominios.
+¿Quiénes pueden usar SGR?
+Administradores, residentes, propietarios, inquilinos, guardias, técnicos y comités o directivas.
+¿Permite controlar visitas?
+Sí. SGR permite gestionar pre-visitas, visitantes y puntos de control para mejorar la trazabilidad de accesos.
+¿Tiene botón de pánico?
+Sí. La plataforma incluye función de botón de pánico y alertas para emergencias.
+¿Los residentes pueden reservar áreas comunes?
+Sí. Los residentes pueden reservar instalaciones desde la plataforma, reduciendo llamadas y procesos manuales.
+¿SGR ayuda con pagos y alícuotas?
+Sí. Permite dar seguimiento a cuentas, pagos, alícuotas y valores pendientes.
+¿Tiene notificaciones por WhatsApp?
+Sí. SGR contempla integración con WhatsApp para notificaciones directas, según configuración y condiciones del servicio.
+¿Puedo pedir una demostración?
+Sí. Puedes agendar un demo para conocer cómo SGR se adapta a tu comunidad.
+
+16. Resumen de implementación por prioridad
+Prioridad
+Qué construir primero
+Por qué
+Alta
+Inicio + Producto + Contacto/Demo
+Son las páginas mínimas para explicar valor y captar leads.
+Alta
+Planes
+Permite ordenar la oferta comercial y reducir dudas de precio.
+Media
+Soluciones por rol
+Ayuda a personalizar el mensaje y aumentar conversión según usuario.
+Media
+Blog
+Construye autoridad, SEO y canal para novedades del sistema.
+Media
+Landing de Seguridad
+Ataca uno de los dolores más emocionales del público: control de ingresos y emergencias.
+Baja inicial
+Centro de ayuda
+Puede crecer luego del lanzamiento, cuando existan más usuarios y preguntas frecuentes reales.
+
+17. Fuentes usadas para la estructura
+Presentación interna: SGR PRESENTACIÓN(1).pdf, Sistema de Gestión de Residencias y Condominios.
+Referencia de tono y organización de producto: Condo Control, página “Producto”, https://www.condocontrol.com/es/producto/
+Cierre estratégico
+La página web de SGR debe funcionar como una herramienta comercial: primero evidencia el caos que viven muchas comunidades, luego muestra una solución ordenada por módulos y finalmente convierte con un demo claro. El blog debe mantener viva la web, comunicar novedades y educar al mercado para que los residentes y administradores entiendan por qué modernizarse ya no es opcional.
